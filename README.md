@@ -3,7 +3,7 @@ Geda PCB footprints and Symbols
 
 This is my personal repository of geda-pcb geda-gschem footprints and symbols.
 
-These elements needs to be include in a PCB project made on [geda-lepton]
+These elements needs to be include in a PCB project made on [eda-lepton]
 (https://github.com/lepton-eda/lepton-eda)
 
 include this repository as a git submodule on your pcb project:
@@ -41,6 +41,10 @@ elements-dir ./geda-elements/pcb-elements
 ```
 
 And your project should find the added extra footprints.
+ps: change path accordingly...
+
+I used geda-pcd for several years, but for Ubuntu 24.04 it is not 
+supported anymore. A workaround is to use pcb-rnd
 
 
 ## cloning the repo and working submodules
