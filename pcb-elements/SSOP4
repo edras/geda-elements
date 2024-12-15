@@ -1,0 +1,15 @@
+
+Element["" "" "" "" 2990.00mil 3110.00mil 0.0000 0.0000 0 100 ""]
+(
+	Pad[-11.00mil 0.0000 11.00mil 0.0000 16.00mil 30.00mil 46.00mil "" "1" ""]
+	Pad[-11.00mil 26.00mil 11.00mil 26.00mil 16.00mil 30.00mil 46.00mil "" "2" "square"]
+	Pad[280.00mil 27.00mil 302.00mil 27.00mil 16.00mil 30.00mil 46.00mil "" "3" "square,edge2"]
+	Pad[280.00mil 1.00mil 302.00mil 1.00mil 16.00mil 30.00mil 46.00mil "" "4" "square,edge2"]
+	ElementLine [-29.00mil -22.00mil 120.00mil -22.00mil 10.00mil]
+	ElementLine [170.00mil -22.00mil 320.00mil -22.00mil 10.00mil]
+	ElementLine [320.00mil -22.00mil 320.00mil 50.00mil 10.00mil]
+	ElementLine [320.00mil 50.00mil -29.00mil 50.00mil 10.00mil]
+	ElementLine [-29.00mil 50.00mil -29.00mil -22.00mil 10.00mil]
+	ElementArc [145.00mil -22.00mil 25.00mil 25.00mil 0.000000 180.000000 10.00mil]
+
+	)

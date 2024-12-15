@@ -1,0 +1,38 @@
+v 20210731 2
+B 600 300 600 500 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 100 2000 5 10 0 0 0 0 1
+device=AT21CS
+P 900 1100 900 800 1 0 0
+{
+T 950 900 5 8 1 1 0 0 1
+pinnumber=1
+T 950 900 5 8 0 1 0 2 1
+pinseq=1
+T 900 600 5 8 0 1 0 5 1
+pintype=IO
+T 900 750 9 8 1 1 0 5 1
+pinlabel=SI/O
+}
+P 900 0 900 300 1 0 0
+{
+T 950 100 5 8 1 1 0 0 1
+pinnumber=3
+T 950 100 5 8 0 1 0 2 1
+pinseq=3
+T 900 500 5 8 0 1 0 3 1
+pintype=pwr
+T 900 350 9 8 1 1 0 3 1
+pinlabel=GND
+}
+T 100 2200 5 10 0 0 0 0 1
+footprint=SOT23
+T 1500 600 8 10 1 1 0 6 1
+refdes=U?
+T 100 2650 5 10 0 0 0 0 1
+description=Single-Wire, I/O Powered Serial EEPROM
+T 100 2450 5 10 0 0 0 0 1
+numslots=0
+T 100 2850 5 10 0 0 0 0 1
+documentation=https://ww1.microchip.com/downloads/aemDocuments/documents/MPD/ProductDocuments/DataSheets/AT21CS01-AT21CS11-Serial-EEPROM-Unique-ID-Data-DS20005857.pdf
+T 1250 375 9 10 1 0 0 0 1
+AT21CS

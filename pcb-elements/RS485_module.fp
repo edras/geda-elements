@@ -1,0 +1,28 @@
+
+Element["" "" "" "" 1500.00mil 1090.00mil 0.0000 0.0000 0 100 ""]
+(
+	Pin[0.0000 0.0000 60.00mil 30.00mil 66.00mil 38.00mil "" "1" "edge2"]
+	Pin[0.0000 100.00mil 60.00mil 30.00mil 66.00mil 38.00mil "" "2" "edge2"]
+	Pin[0.0000 200.00mil 60.00mil 30.00mil 66.00mil 38.00mil "" "3" "edge2"]
+	Pin[0.0000 300.00mil 60.00mil 30.00mil 66.00mil 38.00mil "" "4" "edge2"]
+	Pin[1630.00mil 0.0000 60.00mil 30.00mil 66.00mil 38.00mil "" "8" "edge2"]
+	Pin[1630.00mil 100.00mil 60.00mil 30.00mil 66.00mil 38.00mil "" "7" "edge2"]
+	Pin[1630.00mil 200.00mil 60.00mil 30.00mil 66.00mil 38.00mil "" "6" "edge2"]
+	Pin[1630.00mil 300.00mil 60.00mil 30.00mil 66.00mil 38.00mil "" "5" "edge2"]
+	ElementLine [-60.00mil -130.00mil 1690.00mil -130.00mil 10.00mil]
+	ElementLine [1690.00mil -130.00mil 1690.00mil 430.00mil 10.00mil]
+	ElementLine [1690.00mil 430.00mil -60.00mil 430.00mil 10.00mil]
+	ElementLine [-60.00mil 430.00mil -60.00mil -130.00mil 10.00mil]
+	ElementLine [-50.00mil -50.00mil -50.00mil 350.00mil 10.00mil]
+	ElementLine [-50.00mil 350.00mil 50.00mil 350.00mil 10.00mil]
+	ElementLine [50.00mil 350.00mil 50.00mil -50.00mil 10.00mil]
+	ElementLine [50.00mil -50.00mil -50.00mil -50.00mil 10.00mil]
+	ElementLine [-50.00mil 50.00mil 50.00mil 50.00mil 10.00mil]
+	ElementLine [50.00mil 50.00mil 50.00mil -50.00mil 10.00mil]
+	ElementLine [1580.00mil -50.00mil 1580.00mil 350.00mil 10.00mil]
+	ElementLine [1580.00mil 350.00mil 1680.00mil 350.00mil 10.00mil]
+	ElementLine [1680.00mil 350.00mil 1680.00mil -50.00mil 10.00mil]
+	ElementLine [1680.00mil -50.00mil 1580.00mil -50.00mil 10.00mil]
+	ElementLine [1680.00mil 50.00mil 1680.00mil -50.00mil 10.00mil]
+
+	)

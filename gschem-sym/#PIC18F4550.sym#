@@ -1,0 +1,330 @@
+v 20110115 2
+P 100 4200 400 4200 1 0 0
+{
+T 300 4250 5 8 1 1 0 6 1
+pinnumber=1
+T 300 4150 5 8 0 1 0 8 1
+pinseq=1
+T 450 4200 9 8 1 1 0 0 1
+pinlabel=_MCLR_/VPP/RE3
+T 450 4200 5 8 0 1 0 2 1
+pintype=io
+}
+P 100 3900 400 3900 1 0 0
+{
+T 300 3950 5 8 1 1 0 6 1
+pinnumber=2
+T 300 3850 5 8 0 1 0 8 1
+pinseq=2
+T 450 3900 9 8 1 1 0 0 1
+pinlabel=RA0/AN0
+T 450 3900 5 8 0 1 0 2 1
+pintype=io
+}
+P 100 3600 400 3600 1 0 0
+{
+T 300 3650 5 8 1 1 0 6 1
+pinnumber=3
+T 300 3550 5 8 0 1 0 8 1
+pinseq=3
+T 450 3600 9 8 1 1 0 0 1
+pinlabel=RA1/AN1
+T 450 3600 5 8 0 1 0 2 1
+pintype=io
+}
+P 100 3300 400 3300 1 0 0
+{
+T 300 3350 5 8 1 1 0 6 1
+pinnumber=4
+T 300 3250 5 8 0 1 0 8 1
+pinseq=4
+T 450 3300 9 8 1 1 0 0 1
+pinlabel=RA2/AN2/VREF-/CVREF
+T 450 3300 5 8 0 1 0 2 1
+pintype=io
+}
+P 100 3000 400 3000 1 0 0
+{
+T 300 3050 5 8 1 1 0 6 1
+pinnumber=5
+T 300 2950 5 8 0 1 0 8 1
+pinseq=5
+T 450 3000 9 8 1 1 0 0 1
+pinlabel=RA3/AN3/VREF+
+T 450 3000 5 8 0 1 0 2 1
+pintype=io
+}
+P 100 2700 400 2700 1 0 0
+{
+T 300 2750 5 8 1 1 0 6 1
+pinnumber=6
+T 300 2650 5 8 0 1 0 8 1
+pinseq=6
+T 450 2700 9 8 1 1 0 0 1
+pinlabel=RA4/T0CKI/C1OUT/RCV
+T 450 2700 5 8 0 1 0 2 1
+pintype=io
+}
+P 100 2400 400 2400 1 0 0
+{
+T 300 2450 5 8 1 1 0 6 1
+pinnumber=7
+T 300 2350 5 8 0 1 0 8 1
+pinseq=7
+T 450 2400 9 8 1 1 0 0 1
+pinlabel=RA5/AN4/_SS_/HLVDIN/C2OUT
+T 450 2400 5 8 0 1 0 2 1
+pintype=io
+}
+P 100 2100 400 2100 1 0 0
+{
+T 300 2150 5 8 1 1 0 6 1
+pinnumber=12
+T 300 2050 5 8 0 1 0 8 1
+pinseq=12
+T 450 2100 9 8 1 1 0 0 1
+pinlabel=VSS
+T 450 2100 5 8 0 1 0 2 1
+pintype=pwr
+}
+P 100 1800 400 1800 1 0 0
+{
+T 300 1850 5 8 1 1 0 6 1
+pinnumber=13
+T 300 1750 5 8 0 1 0 8 1
+pinseq=13
+T 450 1800 9 8 1 1 0 0 1
+pinlabel=OSC1/CLKI
+T 450 1800 5 8 0 1 0 2 1
+pintype=io
+}
+P 100 1500 400 1500 1 0 0
+{
+T 300 1550 5 8 1 1 0 6 1
+pinnumber=14
+T 300 1450 5 8 0 1 0 8 1
+pinseq=14
+T 450 1500 9 8 1 1 0 0 1
+pinlabel=OSC2/CLK0/RA6
+T 450 1500 5 8 0 1 0 2 1
+pintype=io
+}
+P 100 1200 400 1200 1 0 0
+{
+T 300 1250 5 8 1 1 0 6 1
+pinnumber=15
+T 300 1150 5 8 0 1 0 8 1
+pinseq=15
+T 450 1200 9 8 1 1 0 0 1
+pinlabel=RC0/T1OSO/T13CKI
+T 450 1200 5 8 0 1 0 2 1
+pintype=io
+}
+P 100 900 400 900 1 0 0
+{
+T 300 950 5 8 1 1 0 6 1
+pinnumber=16
+T 300 850 5 8 0 1 0 8 1
+pinseq=16
+T 450 900 9 8 1 1 0 0 1
+pinlabel=RC1/T1OSI/CCP2/_UOE_
+T 450 900 5 8 0 1 0 2 1
+pintype=io
+}
+P 100 600 400 600 1 0 0
+{
+T 300 650 5 8 1 1 0 6 1
+pinnumber=17
+T 300 550 5 8 0 1 0 8 1
+pinseq=17
+T 450 600 9 8 1 1 0 0 1
+pinlabel=RC2/CCP1/P1A
+T 450 600 5 8 0 1 0 2 1
+pintype=io
+}
+P 100 300 400 300 1 0 0
+{
+T 300 350 5 8 1 1 0 6 1
+pinnumber=18
+T 300 250 5 8 0 1 0 8 1
+pinseq=18
+T 450 300 9 8 1 1 0 0 1
+pinlabel=VUSB
+T 450 300 5 8 0 1 0 2 1
+pintype=pwr
+}
+P 5500 4200 5200 4200 1 0 0
+{
+T 5300 4250 5 8 1 1 0 0 1
+pinnumber=40
+T 5300 4150 5 8 0 1 0 2 1
+pinseq=21
+T 5150 4200 9 8 1 1 0 6 1
+pinlabel=RB7/KBI3/PGD
+T 5150 4200 5 8 0 1 0 8 1
+pintype=io
+}
+P 5500 3900 5200 3900 1 0 0
+{
+T 5300 3950 5 8 1 1 0 0 1
+pinnumber=39
+T 5300 3850 5 8 0 1 0 2 1
+pinseq=22
+T 5150 3900 9 8 1 1 0 6 1
+pinlabel=RB6/KBI2/PGC
+T 5150 3900 5 8 0 1 0 8 1
+pintype=io
+}
+P 5500 3600 5200 3600 1 0 0
+{
+T 5300 3650 5 8 1 1 0 0 1
+pinnumber=38
+T 5300 3550 5 8 0 1 0 2 1
+pinseq=23
+T 5150 3600 9 8 1 1 0 6 1
+pinlabel=RB5/KBI1/PGM
+T 5150 3600 5 8 0 1 0 8 1
+pintype=io
+}
+P 5500 3300 5200 3300 1 0 0
+{
+T 5300 3350 5 8 1 1 0 0 1
+pinnumber=37
+T 5300 3250 5 8 0 1 0 2 1
+pinseq=24
+T 5150 3300 9 8 1 1 0 6 1
+pinlabel=RB4/AN11/KBI0/CSSPP
+T 5150 3300 5 8 0 1 0 8 1
+pintype=io
+}
+P 5500 3000 5200 3000 1 0 0
+{
+T 5300 3050 5 8 1 1 0 0 1
+pinnumber=36
+T 5300 2950 5 8 0 1 0 2 1
+pinseq=25
+T 5150 3000 9 8 1 1 0 6 1
+pinlabel=RB3/AN9/CCP2/VPO
+T 5150 3000 5 8 0 1 0 8 1
+pintype=io
+}
+P 5500 2700 5200 2700 1 0 0
+{
+T 5300 2750 5 8 1 1 0 0 1
+pinnumber=35
+T 5300 2650 5 8 0 1 0 2 1
+pinseq=26
+T 5150 2700 9 8 1 1 0 6 1
+pinlabel=RB2/AN8/IN2/VMO
+T 5150 2700 5 8 0 1 0 8 1
+pintype=io
+}
+P 5500 2400 5200 2400 1 0 0
+{
+T 5300 2450 5 8 1 1 0 0 1
+pinnumber=34
+T 5300 2350 5 8 0 1 0 2 1
+pinseq=27
+T 5150 2400 9 8 1 1 0 6 1
+pinlabel=RB1/AN10/INT1/SCK/SCL
+T 5150 2400 5 8 0 1 0 8 1
+pintype=io
+}
+P 5500 2100 5200 2100 1 0 0
+{
+T 5300 2150 5 8 1 1 0 0 1
+pinnumber=33
+T 5300 2050 5 8 0 1 0 2 1
+pinseq=28
+T 5150 2100 9 8 1 1 0 6 1
+pinlabel=RB0/AN12/INT0/FLT0/SDI/SDA
+T 5150 2100 5 8 0 1 0 8 1
+pintype=io
+}
+P 5500 1800 5200 1800 1 0 0
+{
+T 5300 1850 5 8 1 1 0 0 1
+pinnumber=32
+T 5300 1750 5 8 0 1 0 2 1
+pinseq=29
+T 5150 1800 9 8 1 1 0 6 1
+pinlabel=VDD
+T 5150 1800 5 8 0 1 0 8 1
+pintype=pwr
+}
+P 5500 1500 5200 1500 1 0 0
+{
+T 5300 1550 5 8 1 1 0 0 1
+pinnumber=31
+T 5300 1450 5 8 0 1 0 2 1
+pinseq=30
+T 5150 1500 9 8 1 1 0 6 1
+pinlabel=VSS
+T 5150 1500 5 8 0 1 0 8 1
+pintype=pwr
+}
+P 5500 1200 5200 1200 1 0 0
+{
+T 5300 1250 5 8 1 1 0 0 1
+pinnumber=26
+T 5300 1150 5 8 0 1 0 2 1
+pinseq=35
+T 5150 1200 9 8 1 1 0 6 1
+pinlabel=RC7/RX/DT/SDO
+T 5150 1200 5 8 0 1 0 8 1
+pintype=io
+}
+P 5500 900 5200 900 1 0 0
+{
+T 5300 950 5 8 1 1 0 0 1
+pinnumber=25
+T 5300 850 5 8 0 1 0 2 1
+pinseq=36
+T 5150 900 9 8 1 1 0 6 1
+pinlabel=RC6/TX/CK
+T 5150 900 5 8 0 1 0 8 1
+pintype=io
+}
+P 5500 600 5200 600 1 0 0
+{
+T 5300 650 5 8 1 1 0 0 1
+pinnumber=24
+T 5300 550 5 8 0 1 0 2 1
+pinseq=37
+T 5150 600 9 8 1 1 0 6 1
+pinlabel=RC5/D+/VP
+T 5150 600 5 8 0 1 0 8 1
+pintype=io
+}
+P 5500 300 5200 300 1 0 0
+{
+T 5300 350 5 8 1 1 0 0 1
+pinnumber=23
+T 5300 250 5 8 0 1 0 2 1
+pinseq=38
+T 5150 300 9 8 1 1 0 6 1
+pinlabel=RC4/D-/VM
+T 5150 300 5 8 0 1 0 8 1
+pintype=io
+}
+B 400 100 4800 4400 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 5200 4600 8 10 1 1 0 6 1
+refdes=U?
+T 400 4600 9 10 1 0 0 0 1
+PIC18F2550
+T 400 6700 5 10 0 0 0 0 1
+device=PIC18F2550
+T 400 6900 5 10 0 0 0 0 1
+footprint=DIP28
+T 400 7100 5 10 0 0 0 0 1
+author=wzab@ise.pw.edu.pl
+T 400 7300 5 10 0 0 0 0 1
+documentation=http://ww1.microchip.com/downloads/en/DeviceDoc/39632D.pdf
+T 400 7500 5 10 0 0 0 0 1
+description=Microcontroller with USB interface
+T 400 7700 5 10 0 0 0 0 1
+numslots=0
+T 400 7900 5 10 0 0 0 0 1
+dist-license=GPL
+T 400 8100 5 10 0 0 0 0 1
+use-license=public domain
