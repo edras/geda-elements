@@ -3,8 +3,7 @@ Geda PCB footprints and Symbols
 
 This is my personal repository of geda-pcb geda-gschem footprints and symbols.
 
-These elements needs to be include in a PCB project made on [eda-lepton]
-(https://github.com/lepton-eda/lepton-eda)
+These elements needs to be include in a PCB project made on [eda-lepton](https://github.com/lepton-eda/lepton-eda)
 
 include this repository as a git submodule on your pcb project:
 
@@ -52,7 +51,7 @@ supported anymore. A workaround is to use pcb-rnd
 Later to clone a repository containing the submodule:
 
 ```
-git clone --recurse-submodules your_git_repository_urk
+git clone --recurse-submodules your_git_repository_url
 ```
 
 Or if you forgot to type --recurse-submodule during cloning, cd into the repository folder and initialize the submodule:
