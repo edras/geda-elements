@@ -1,0 +1,349 @@
+v 20080127 1
+B 300 600 3800 4700 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 300 900 0 900 1 0 1
+{
+T 200 950 5 8 1 1 0 6 1
+pinnumber=35
+T 350 900 9 8 1 1 0 0 1
+pinlabel=FILTR
+T 350 900 5 8 0 1 0 2 1
+pintype=out
+}
+P 300 2900 0 2900 1 0 1
+{
+T 200 2950 5 8 1 1 0 6 1
+pinnumber=24
+T 350 2900 9 8 1 1 0 0 1
+pinlabel=COUT
+T 350 2900 5 8 0 1 0 2 1
+pintype=io
+}
+P 300 2700 0 2700 1 0 1
+{
+T 200 2750 5 8 1 1 0 6 1
+pinnumber=26
+T 350 2700 9 8 1 1 0 0 1
+pinlabel=CCLK
+T 350 2700 5 8 0 1 0 2 1
+pintype=in
+}
+P 2400 5300 2400 5600 1 0 1
+{
+T 2350 5395 5 8 1 1 90 0 1
+pinnumber=48
+T 2400 5245 9 8 1 1 90 6 1
+pinlabel=AVDD
+T 2400 5050 5 8 0 1 90 2 1
+pintype=pwr
+}
+P 3000 400 3000 600 1 0 0
+{
+T 2950 505 5 8 1 1 90 6 1
+pinnumber=25
+T 3000 655 9 8 1 1 90 0 1
+pinlabel=GND
+T 3000 300 5 10 0 1 270 0 1
+pintype=pwr
+}
+P 4400 4900 4100 4900 1 0 0
+{
+T 4200 4950 5 8 1 1 0 0 1
+pinnumber=40
+T 4050 4900 9 8 1 1 0 6 1
+pinlabel=ADC1LN
+T 4050 4900 5 8 0 1 0 8 1
+pintype=in
+}
+P 4400 5100 4100 5100 1 0 0
+{
+T 4200 5150 5 8 1 1 0 0 1
+pinnumber=39
+T 4050 5100 9 8 1 1 0 6 1
+pinlabel=ADC1LP
+T 4050 5100 5 8 0 1 0 8 1
+pintype=in
+}
+T 3900 5400 8 10 1 1 0 0 1
+refdes=U?
+T 300 5850 8 10 0 0 0 0 1
+device=AD1974
+T 300 6250 8 10 0 0 0 0 1
+footprint=LQFP48
+T 300 6450 8 10 0 0 0 0 1
+description=4 ADC 24bits SIGMA-DELTA
+T 300 6050 8 10 0 0 0 0 1
+numslots=0
+T 300 6650 8 10 0 0 0 0 1
+documentation=www.analog.com/static/imported-files/data_sheets/AD1974.pdf
+T 2000 2850 9 10 1 0 0 0 1
+AD1974
+P 4400 4300 4100 4300 1 0 0
+{
+T 4200 4350 5 8 1 1 0 0 1
+pinnumber=42
+T 4050 4300 9 8 1 1 0 6 1
+pinlabel=ADC1RN
+T 4050 4300 5 8 0 1 0 8 1
+pintype=in
+}
+P 4400 4500 4100 4500 1 0 0
+{
+T 4200 4550 5 8 1 1 0 0 1
+pinnumber=41
+T 4050 4500 9 8 1 1 0 6 1
+pinlabel=ADC1RP
+T 4050 4500 5 8 0 1 0 8 1
+pintype=in
+}
+P 4400 3700 4100 3700 1 0 0
+{
+T 4200 3750 5 8 1 1 0 0 1
+pinnumber=44
+T 4050 3700 9 8 1 1 0 6 1
+pinlabel=ADC2LN
+T 4050 3700 5 8 0 1 0 8 1
+pintype=in
+}
+P 4400 3900 4100 3900 1 0 0
+{
+T 4200 3950 5 8 1 1 0 0 1
+pinnumber=43
+T 4050 3900 9 8 1 1 0 6 1
+pinlabel=ADC2LP
+T 4050 3900 5 8 0 1 0 8 1
+pintype=in
+}
+P 4400 3100 4100 3100 1 0 0
+{
+T 4200 3150 5 8 1 1 0 0 1
+pinnumber=46
+T 4050 3100 9 8 1 1 0 6 1
+pinlabel=ADC2RN
+T 4050 3100 5 8 0 1 0 8 1
+pintype=in
+}
+P 4400 3300 4100 3300 1 0 0
+{
+T 4200 3350 5 8 1 1 0 0 1
+pinnumber=45
+T 4050 3300 9 8 1 1 0 6 1
+pinlabel=ADC2RP
+T 4050 3300 5 8 0 1 0 8 1
+pintype=in
+}
+P 2800 400 2800 600 1 0 0
+{
+T 2750 505 5 8 1 1 90 6 1
+pinnumber=12
+T 2800 655 9 8 1 1 90 0 1
+pinlabel=GND
+T 2800 300 5 10 0 1 270 0 1
+pintype=pwr
+}
+P 1700 400 1700 600 1 0 0
+{
+T 1650 505 5 8 1 1 90 6 1
+pinnumber=4
+T 1700 655 9 8 1 1 90 0 1
+pinlabel=AGND
+T 1700 300 5 10 0 1 270 0 1
+pintype=pwr
+}
+P 300 700 0 700 1 0 1
+{
+T 200 750 5 8 1 1 0 6 1
+pinnumber=38
+T 350 700 9 8 1 1 0 0 1
+pinlabel=CM
+T 350 700 5 8 0 1 0 2 1
+pintype=out
+}
+P 300 1300 0 1300 1 0 1
+{
+T 200 1350 5 8 1 1 0 6 1
+pinnumber=3
+T 350 1300 9 8 1 1 0 0 1
+pinlabel=MCLKO/XO
+T 350 1300 5 8 0 1 0 2 1
+pintype=out
+}
+P 300 2000 0 2000 1 0 1
+{
+T 200 2050 5 8 1 1 0 6 1
+pinnumber=2
+T 350 2000 9 8 1 1 0 0 1
+pinlabel=MCLKI/XI
+T 350 2000 5 8 0 1 0 2 1
+pintype=in
+}
+P 300 2500 0 2500 1 0 1
+{
+T 200 2550 5 8 1 1 0 6 1
+pinnumber=27
+T 350 2500 9 8 1 1 0 0 1
+pinlabel=/CLATCH
+T 350 2500 5 8 0 1 0 2 1
+pintype=in
+}
+P 2200 5300 2200 5600 1 0 1
+{
+T 2150 5395 5 8 1 1 90 0 1
+pinnumber=37
+T 2200 5245 9 8 1 1 90 6 1
+pinlabel=AVDD
+T 2200 5050 5 8 0 1 90 2 1
+pintype=pwr
+}
+P 2000 5300 2000 5600 1 0 1
+{
+T 1950 5395 5 8 1 1 90 0 1
+pinnumber=33
+T 2000 5245 9 8 1 1 90 6 1
+pinlabel=AVDD
+T 2000 5050 5 8 0 1 90 2 1
+pintype=pwr
+}
+P 1800 5300 1800 5600 1 0 1
+{
+T 1750 5395 5 8 1 1 90 0 1
+pinnumber=5
+T 1800 5245 9 8 1 1 90 6 1
+pinlabel=AVDD
+T 1800 5050 5 8 0 1 90 2 1
+pintype=pwr
+}
+P 1500 5300 1500 5600 1 0 1
+{
+T 1450 5395 5 8 1 1 90 0 1
+pinnumber=13
+T 1500 5245 9 8 1 1 90 6 1
+pinlabel=DVDD
+T 1500 5050 5 8 0 1 90 2 1
+pintype=pwr
+}
+P 1900 400 1900 600 1 0 0
+{
+T 1850 505 5 8 1 1 90 6 1
+pinnumber=32
+T 1900 655 9 8 1 1 90 0 1
+pinlabel=AGND
+T 1900 300 5 10 0 1 270 0 1
+pintype=pwr
+}
+P 2100 400 2100 600 1 0 0
+{
+T 2050 505 5 8 1 1 90 6 1
+pinnumber=34
+T 2100 655 9 8 1 1 90 0 1
+pinlabel=AGND
+T 2100 300 5 10 0 1 270 0 1
+pintype=pwr
+}
+P 2300 400 2300 600 1 0 0
+{
+T 2250 505 5 8 1 1 90 6 1
+pinnumber=36
+T 2300 655 9 8 1 1 90 0 1
+pinlabel=AGND
+T 2300 300 5 10 0 1 270 0 1
+pintype=pwr
+}
+P 1500 400 1500 600 1 0 0
+{
+T 1450 505 5 8 1 1 90 6 1
+pinnumber=1
+T 1500 655 9 8 1 1 90 0 1
+pinlabel=AGND
+T 1500 300 5 10 0 1 270 0 1
+pintype=pwr
+}
+P 4400 2300 4100 2300 1 0 0
+{
+T 4200 2350 5 8 1 1 0 0 1
+pinnumber=15
+T 4050 2300 9 8 1 1 0 6 1
+pinlabel=AUXDATA1
+T 4050 2300 5 8 0 1 0 8 1
+pintype=io
+}
+P 4400 2500 4100 2500 1 0 0
+{
+T 4200 2550 5 8 1 1 0 0 1
+pinnumber=14
+T 4050 2500 9 8 1 1 0 6 1
+pinlabel=AUXDATA2
+T 4050 2500 5 8 0 1 0 8 1
+pintype=io
+}
+P 4400 1900 4100 1900 1 0 0
+{
+T 4200 1950 5 8 1 1 0 0 1
+pinnumber=18
+T 4050 1900 9 8 1 1 0 6 1
+pinlabel=AUXLRCLK
+T 4050 1900 5 8 0 1 0 8 1
+pintype=io
+}
+P 4400 2100 4100 2100 1 0 0
+{
+T 4200 2150 5 8 1 1 0 0 1
+pinnumber=17
+T 4050 2100 9 8 1 1 0 6 1
+pinlabel=AUXBCLK
+T 4050 2100 5 8 0 1 0 8 1
+pintype=io
+}
+P 4400 1300 4100 1300 1 0 0
+{
+T 4200 1350 5 8 1 1 0 0 1
+pinnumber=20
+T 4050 1300 9 8 1 1 0 6 1
+pinlabel=ASDATA1
+T 4050 1300 5 8 0 1 0 8 1
+pintype=out
+}
+P 4400 1500 4100 1500 1 0 0
+{
+T 4200 1550 5 8 1 1 0 0 1
+pinnumber=19
+T 4050 1500 9 8 1 1 0 6 1
+pinlabel=ASDATA2
+T 4050 1500 5 8 0 1 0 8 1
+pintype=io
+}
+P 4400 900 4100 900 1 0 0
+{
+T 4200 950 5 8 1 1 0 0 1
+pinnumber=22
+T 4050 900 9 8 1 1 0 6 1
+pinlabel=ALRCLK
+T 4050 900 5 8 0 1 0 8 1
+pintype=io
+}
+P 4400 1100 4100 1100 1 0 0
+{
+T 4200 1150 5 8 1 1 0 0 1
+pinnumber=21
+T 4050 1100 9 8 1 1 0 6 1
+pinlabel=ABCLK
+T 4050 1100 5 8 0 1 0 8 1
+pintype=io
+}
+P 300 3100 0 3100 1 0 1
+{
+T 200 3150 5 8 1 1 0 6 1
+pinnumber=23
+T 350 3100 9 8 1 1 0 0 1
+pinlabel=CIN
+T 350 3100 5 8 0 1 0 2 1
+pintype=in
+}
+P 3000 5300 3000 5600 1 0 1
+{
+T 2950 5395 5 8 1 1 90 0 1
+pinnumber=47
+T 3000 5245 9 8 1 1 90 6 1
+pinlabel=LF
+T 3000 5050 5 8 0 1 90 2 1
+pintype=out
+}

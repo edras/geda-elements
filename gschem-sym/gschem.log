@@ -1,0 +1,16 @@
+gEDA/gschem Version 1.4.0.20080127
+gEDA/gschem kommt OHNE JEGLICHE GARANTIE. Bitte lies die Datei COPYING fürnähere Informationen.
+Dies ist Freie Software. Sie darf gerne weitergegeben werden. Bitte lies die
+Lizenzbestimmungen in der Datei COPYING für nähere Informationen.
+
+Lese die Systemdatei gafrc [/etc/gEDA/system-gafrc]
+Konnte die optionale ~/.gEDA/gafrc-Datei [/home/edras/.gEDA/gafrc] nicht finden
+Konnte die optionale lokale gafrc-Datei [/home/edras/workspace/HW/gschem-sym/gafrc] nicht finden
+Lese die Systemdatei gschemrc [/etc/gEDA/system-gschemrc]
+Konnte die optionale ~/.gEDA/gschemrc-Datei [/home/edras/.gEDA/gschemrc] nicht finden
+Konnte die optionale lokale gschemrc-Datei [/home/edras/workspace/HW/gschem-sym/gschemrc] nicht finden
+Lese init scm Datei [/usr/share/gEDA/scheme/gschem.scm]
+Lade Schaltplan [/home/edras/workspace/HW/gschem-sym/resistor-jumper2.sym]
+Konnte die angegebene gafrc-Datei [/home/edras/workspace/HW/gschem-sym/gafrc] nicht finden
+Verborgener Text ist jetzt sichtbar.
+Gespeichert [/home/edras/workspace/HW/gschem-sym/resistor-jumper2.sym]
